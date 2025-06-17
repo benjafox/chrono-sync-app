@@ -1,0 +1,1 @@
+# Fonctions pour NTP, horloge système, timecode (mock)
